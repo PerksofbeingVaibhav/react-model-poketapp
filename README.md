@@ -1,6 +1,6 @@
 # Solana Hackathon - MapTask Responder App
 
-This project is one of two parts - this part reads "tasks" from the solana blockchain and completes them to receive rewards. The sister repo that creates tasks is at [https://github.com/poketapp/solana-hackathon-2021](https://github.com/PerksofbeingVaibhav/solana-hackathon-2022).
+This project is one of two parts - this part reads "tasks" from the solana blockchain and completes them to receive rewards. The sister repo that creates tasks is at https://github.com/PerksofbeingVaibhav/solana-hackathon-2022.git.
 
 
 The project comprises of:
